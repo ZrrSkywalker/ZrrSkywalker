@@ -14,7 +14,7 @@
 * MAE for 3D Point Clouds: [Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE) -> [I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE)
 * Cross-modal Adaption of CLIP in 3D: [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) -> [PointCLIP V2](https://github.com/yangyangyang127/PointCLIP_V2)
 * Non-Parametric 3D Analysis: [Point-NN and Point-PN](https://github.com/ZrrSkywalker/Point-NN)
-* Camera-based 3D Object Detection: [MonoDETR](https://github.com/ZrrSkywalker/MonoDETR). [MonoDETR-MV](https://github.com/ZrrSkywalker/MonoDETR-MV) -> [TiG-BEV](https://github.com/ADLab3Ds/TiG-BEV)
+* Camera-based 3D Object Detection: [MonoDETR](https://github.com/ZrrSkywalker/MonoDETR), [MonoDETR-MV](https://github.com/ZrrSkywalker/MonoDETR-MV) -> [TiG-BEV](https://github.com/ADLab3Ds/TiG-BEV)
 
 <!--
 **ZrrSkywalker/ZrrSkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
