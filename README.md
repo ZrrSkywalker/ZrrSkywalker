@@ -16,6 +16,11 @@
 * Non-Parametric 3D Analysis: [Point-NN and Point-PN](https://github.com/ZrrSkywalker/Point-NN)
 * Camera-based 3D Object Detection: [MonoDETR](https://github.com/ZrrSkywalker/MonoDETR), [MonoDETR-MV](https://github.com/ZrrSkywalker/MonoDETR-MV) -> [TiG-BEV](https://github.com/ADLab3Ds/TiG-BEV)
 
+#### NEWs
+* [2023-04-02] Release the fine-tuning code of [Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE)
+* [2023-04-01] Release [CaFo](https://github.com/ZrrSkywalker/CaFo) cascaded with ChatGPT and Stable Diffusion
+* [2023-03-26] Release the generation code of [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter)
+
 <!--
 **ZrrSkywalker/ZrrSkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
