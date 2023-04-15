@@ -17,6 +17,7 @@
 * Camera-based 3D Object Detection: [MonoDETR](https://github.com/ZrrSkywalker/MonoDETR), [MonoDETR-MV](https://github.com/ZrrSkywalker/MonoDETR-MV) -> [TiG-BEV](https://github.com/ADLab3Ds/TiG-BEV)
 
 #### News
+* [2023-04-16] Release the training code of [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter).
 * [2023-04-11] Release the code of [Point-PN](https://github.com/ZrrSkywalker/Point-NN).
 * [2023-04-03] Release the pre-training and fine-tuning code of [I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE).
 * [2023-04-02] Release the fine-tuning code of [Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE).
