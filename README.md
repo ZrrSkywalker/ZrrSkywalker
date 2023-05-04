@@ -9,6 +9,7 @@
 * [2021-Now] I'm working as a research intern at Shanghai AI Lab, supervised by [Dr. Peng Gao](https://scholar.google.com/citations?user=_go6DPsAAAAJ&hl=zh-CN).
 
 #### Research Projects
+* Personalization of Segment Anything: [PerSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
 * Efficient Fine-tuning of LLaMA: [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) -> [LLaMA-Adapter V2](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 * Efficient Adaption of CLIP in 2D: [CLIP-Adapter](https://github.com/gaopengcuhk/CLIP-Adapter) -> [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) -> [CaFo](https://github.com/ZrrSkywalker/CaFo)
 * MAE for 3D Point Clouds: [Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE) -> [I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE)
@@ -17,6 +18,7 @@
 * Camera-based 3D Object Detection: [MonoDETR](https://github.com/ZrrSkywalker/MonoDETR), [MonoDETR-MV](https://github.com/ZrrSkywalker/MonoDETR-MV) -> [TiG-BEV](https://github.com/ADLab3Ds/TiG-BEV)
 
 #### News
+* [2023-05-05] Release the paper [PerSAM](https://github.com/ZrrSkywalker/Personalize-SAM/blob/main/paper_arXiv.pdf) and [code](https://github.com/ZrrSkywalker/Personalize-SAM) for personalizing Segment Anything within 10 seconds.
 * [2023-04-29] Release the paper [LLaMA-Adapter V2](https://github.com/ZrrSkywalker/LLaMA-Adapter/blob/main/LLaMA-Adapter-V2-arXiv.pdf) and [code](https://github.com/ZrrSkywalker/LLaMA-Adapter/tree/main/llama_adapter_v2_chat65b) for stronger multi-modal reasoning.
 * [2023-04-16] Release the training code of [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter).
 * [2023-04-11] Release the code of [Point-PN](https://github.com/ZrrSkywalker/Point-NN).
