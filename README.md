@@ -9,7 +9,7 @@
 * [2021-Now] I'm working as a research intern at Shanghai AI Lab, supervised by [Dr. Peng Gao](https://scholar.google.com/citations?user=_go6DPsAAAAJ&hl=zh-CN).
 
 #### Research Projects
-* Personalization of Segment Anything: [PerSAM](https://github.com/ZrrSkywalker/Personalize-SAM)
+* Personalization of Segment Anything: [PerSAM and PerSAM-F](https://github.com/ZrrSkywalker/Personalize-SAM)
 * Efficient Fine-tuning of LLaMA: [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) -> [LLaMA-Adapter V2](https://github.com/ZrrSkywalker/LLaMA-Adapter)
 * Efficient Adaption of CLIP in 2D: [CLIP-Adapter](https://github.com/gaopengcuhk/CLIP-Adapter) -> [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) -> [CaFo](https://github.com/ZrrSkywalker/CaFo)
 * MAE for 3D Point Clouds: [Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE) -> [I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE)
