@@ -12,7 +12,7 @@
 * Multi-modality Alignment: [ImageBind-LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM) and [Point-Bind](https://github.com/ZrrSkywalker/Point-Bind)
 * Personalization of Segment Anything: [PerSAM and PerSAM-F](https://github.com/ZrrSkywalker/Personalize-SAM)
 * Instruction Tuning of LLaMA: [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) -> [LLaMA-Adapter V2](https://github.com/ZrrSkywalker/LLaMA-Adapter)
-* Efficient Adaption of CLIP in 2D: [CLIP-Adapter](https://github.com/gaopengcuhk/CLIP-Adapter) -> [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) -> [CaFo](https://github.com/ZrrSkywalker/CaFo)
+* Efficient Adaption of CLIP in 2D: [CLIP-Adapter](https://github.com/gaopengcuhk/CLIP-Adapter) -> [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) -> [CaFo](https://github.com/ZrrSkywalker/CaFo), [APE](https://github.com/yangyangyang127/APE)
 * MAE for 3D Point Clouds: [Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE) -> [I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE)
 * Cross-modal Adaption of CLIP in 3D: [PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) -> [PointCLIP V2](https://github.com/yangyangyang127/PointCLIP_V2)
 * Non-Parametric 3D Analysis: [Point-NN and Point-PN](https://github.com/ZrrSkywalker/Point-NN)
