@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm [Renrui Zhang](https://scholar.google.com/citations?user=YlL3xN4AAAAJ&hl=zh-CN), a Ph.D. candidate in MMLab, CUHK.
+🌱 I'm [Renrui Zhang](https://zrrskywalker.github.io/), a Ph.D. candidate in MMLab, CUHK.
 
 #### Education
 * [2017-2021] 🎉 I received my B.E. degree from [Peking University](https://english.pku.edu.cn/), awarded *Outstanding Graduates* (top 5\%).
